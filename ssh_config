@@ -1,0 +1,11 @@
+# CAEN
+Host zmpan
+  HostName login.engin.umich.edu
+  User zmpan
+  Compression yes
+
+# UMich GitLab
+Host gitlab
+  HostName gitlab.com
+  User zimengpan
+  IdentityFile ~/.ssh/id_rsa
